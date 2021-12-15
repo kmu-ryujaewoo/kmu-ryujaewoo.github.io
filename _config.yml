@@ -30,7 +30,7 @@ twitter_username: Ryujaewoo
 github_username:  kmu-ryujaewoo
 
 # Build settings
-theme: midnight
+theme: minimal
 plugins:
   - jekyll-feed
 
