@@ -32,7 +32,7 @@ github_username:  jekyll
 # Build settings
 theme: ockham
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
