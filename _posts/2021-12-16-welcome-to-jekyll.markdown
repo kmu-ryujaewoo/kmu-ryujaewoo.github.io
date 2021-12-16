@@ -1,29 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-12-16 04:23:13 +0900
+title:  "Markdown 문법 알아보기"
+date:   2021-12-16 11:02:23
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Markdown이란?
+Markdown을 활용하면 간단하게 텍스트를 꾸밀 수 있다.
+규칙이 쉽고 간단하다. 일반 텍스트만 활용해서 텍스트를 꾸민다는 것이 가장 큰 특장점이다.
 
-Jekyll requires blog post files to be named according to the following format:
+# Markdown 문법
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## Header
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+#을 통해 제목을 작성하는 것이 가능하다.
+'# Header1'
+# Hearer1
+'## Header2'
+## Header2
