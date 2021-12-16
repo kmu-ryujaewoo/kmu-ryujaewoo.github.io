@@ -13,18 +13,19 @@ Markdown을 활용하면 간단하게 텍스트를 꾸밀 수 있다.
 ## 1. Header
 
 #을 통해 제목을 작성하는 것이 가능하다.#,##,###... #6개 까지만 지원한다.   
-`# Header1`
+
 # Header1
-`## Header2`
+`# Header1`
 ## Header2
-`### Header3`
+`## Header2`
 ### Header3
-`#### Header4`
+`### Header3`
 #### Header4
-`##### Header5`
+`#### Header4`
 ##### Header5
-`###### Header6`
+`##### Header5`
 ###### Header6
+`###### Header6`
 
 ## 2. Italic
 
