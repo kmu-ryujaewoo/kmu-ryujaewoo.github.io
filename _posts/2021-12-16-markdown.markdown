@@ -52,7 +52,7 @@ __HELLO, WORLD__
 ## 5.Unordered List
 
 `-..., *...`으로 순서없는 리스트(unordered List)가능  
-`-TEXT`  
--TEXT  
-`*HELLO, WORLD`  
-*HELLO, WORLD  
+`- TEXT`  
+- TEXT  
+`* HELLO, WORLD`  
+* HELLO, WORLD  
