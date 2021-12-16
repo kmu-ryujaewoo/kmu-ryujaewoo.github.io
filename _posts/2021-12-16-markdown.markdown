@@ -48,3 +48,11 @@ __HELLO, WORLD__
 `~...~` 으로 취소선(~strikethrough~)가능  
 `~TEXT~`  
 ~TEXT~
+
+## 5.Unordered List
+
+`-..., *...`으로 순서없는 리스트(unordered List)가능  
+`-TEXT`  
+-TEXT  
+`*HELLO, WORLD`  
+*HELLO, WORLD  
