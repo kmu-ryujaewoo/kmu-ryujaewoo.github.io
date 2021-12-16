@@ -37,7 +37,7 @@ _HELLO, WORLD_
 
 ## 3. Bold
 
-`**...**, __...__` 으로 텍스트 강조(**bold**)가능  
+`**...**, __...__` 으로 텍스트 강조(**bold**) 가능  
 `**TEXT**`  
 **TEXT**  
 `__HELLO, WORLD__`  
@@ -45,14 +45,36 @@ __HELLO, WORLD__
 
 ## 4. Strikethrough
 
-`~...~` 으로 취소선(~strikethrough~)가능  
+`~...~` 으로 취소선(~strikethrough~) 가능  
 `~TEXT~`  
 ~TEXT~
 
 ## 5.Unordered List
 
-`-..., *...`으로 순서없는 리스트(unordered List)가능  
+`-..., *...`으로 순서없는 리스트(unordered List) 작성  
 `- TEXT`  
 - TEXT  
 `* HELLO, WORLD`  
 * HELLO, WORLD  
+
+## 6.Ordered List
+
+`1....`으로 순서 리스트(ordered List) 작성  
+`1. TEXT`  
+`2. HELLO, WORLD`  
+1. TEXT
+2. HELLO, WORLD  
+
+## 7.Code
+
+``...``으로 코드(code) 작성
+``print()``  
+`print()`  
+
+## 8.Code Block
+
+````...````으로 코드 블럭(여러줄) 작성  
+``````print("1")
+print("2")```````  
+```print("1")
+print("2")```
