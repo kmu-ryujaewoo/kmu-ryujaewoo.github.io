@@ -29,8 +29,22 @@ Markdown을 활용하면 간단하게 텍스트를 꾸밀 수 있다.
 
 ## 2. Italic
 
-*...*, _..._ 으로 italic(텍스트 기울이기) 가능  
+*...*, _..._ 으로 텍스트 기울이기(*italic*) 가능  
 `*TEXT*`  
 *TEXT*  
 `_HELLO, WORLD_`  
 _HELLO, WORLD_  
+
+## 3. Bold
+
+**...**, __...__ 으로 텍스트 강조(**bold**)가능  
+`**TEXT**`  
+**TEXT**  
+`__HELLO, WORLD__`  
+__HELLO, WORLD__  
+
+## 4. Strikethrough
+
+~...~ 으로 취소선(~strikethrough~)가능  
+`~TEXT~`  
+~TEXT~
