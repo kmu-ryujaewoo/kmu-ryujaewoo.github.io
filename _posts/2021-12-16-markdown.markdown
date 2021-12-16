@@ -67,13 +67,13 @@ __HELLO, WORLD__
 
 ## 7.Code
 
-`으로 텍스트를 감싸 으로 코드(code) 작성   
+backtick 문자로 텍스트를 감싸 으로 코드(code) 작성   
 
 `print()`  
 
 ## 8.Code Block
 
-`세 개로 코드 여러 줄을  코드 블럭(여러줄) 작성  
+backtick 문자 세 개로 코드 여러 줄을  코드 블럭(여러줄) 작성  
 
 ```
 print("1")
