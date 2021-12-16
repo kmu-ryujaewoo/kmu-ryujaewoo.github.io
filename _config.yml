@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: ockham
 plugins:
   - jekyll-remote-theme
+remote_theme: zivong/ockham
 
 # Exclude from processing.
 # The following items will not be processed, by default.
