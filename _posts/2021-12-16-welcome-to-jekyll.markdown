@@ -13,7 +13,7 @@ Markdown을 활용하면 간단하게 텍스트를 꾸밀 수 있다.
 ## Header
 
 #을 통해 제목을 작성하는 것이 가능하다.
-\n'# Header1'
+`# Header1`
 # Hearer1
-'## Header2'
+`## Header2`
 ## Header2
